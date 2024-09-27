@@ -1,10 +1,14 @@
-﻿namespace Tic_Tac_Toe
+﻿
+namespace Tic_Tac_Toe
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            Player.Choice();
+
+
         }
     }
 }
